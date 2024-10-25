@@ -3,7 +3,7 @@
 
 This project provides an interactive sales dashboard for **BlinkIT Groceries**, showcasing sales insights across various item categories like Baking Goods, Dairy, Fruits and Vegetables, etc. The dashboard is built using **Microsoft Excel** and leverages its powerful data visualization tools to provide meaningful insights for business analysis.
 
-![Alt Text]([image-url](https://github.com/uday-data-nerd/BlinkIT_Grocery_Insights_Dashboard/blob/main/blinkit%20dashboard.jpg))
+![BlinkIt](https://github.com/uday-data-nerd/BlinkIT_Grocery_Insights_Dashboard/blob/main/blinkit%20dashboard.jpg)
 
 ## Overview
 
