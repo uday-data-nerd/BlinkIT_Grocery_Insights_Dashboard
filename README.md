@@ -1,8 +1,6 @@
 # BlinkIT_Grocery_Insights_Dashboard
 
 
-# BlinkIT Grocery Sales Dashboard
-
 This project provides an interactive sales dashboard for **BlinkIT Groceries**, showcasing sales insights across various item categories like Baking Goods, Dairy, Fruits and Vegetables, etc. The dashboard is built using **Microsoft Excel** and leverages its powerful data visualization tools to provide meaningful insights for business analysis.
 
 ## Overview
